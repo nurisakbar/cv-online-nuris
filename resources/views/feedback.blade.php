@@ -4,7 +4,7 @@
  <!-- Container -->
  <div class="content-wrap">
 
-    <div id="feedback" class="inner-content">
+    {{-- <div id="feedback" class="inner-content">
 
         <section id="page-title" class="inner-section ui-menu-color05">
             <div class="container-fluid nopadding">
@@ -200,6 +200,6 @@
                 </div>
             </section>
             <!-- /Testimonials Block -->
-    </div>
+    </div> --}}
 </div>
 @endsection

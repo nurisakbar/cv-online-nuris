@@ -141,12 +141,9 @@
         <div class="container-fluid nopadding">
             <div class="row">
                 <div class="col-sm-3">
-                    <h5 class="font-accident-two-bold uppercase">Cerita Singkat Saya</h5>
+                    <h5 class="font-accident-two-bold uppercase">Selayang Pandang</h5>
                     <p class="inline-block">
-                        Saya WAHYU SAFRIZAL berasal dari Aceh dan melanjutkan SMK di salah satu SMK IT Jurusan RPL di
-                        Cimahi dan saya mendapatkan kesenangan di dunia IT kurang lebih 2 sampai 3 tahun. Saya sering
-                        mengikuti workshop workshop atau seminar gratis di sekitaran tempat
-                        saya tinggal.
+                        Saya adalah orang yang tertarik di dunia IT khsusnya pemograman, senang mempelajari hal baru dengan mengajarkankan kepada orang lain dalam bentuk tulisan, video tutorial dan training.
                     </p>
                     <div class="divider-dynamic"></div>
                 </div>
@@ -176,7 +173,7 @@
                             :
                         </div>
                         <div class="col-md-3">
-                            081318960576
+                            089699935552
                         </div>
                     </div>
                     <div class="divider-dynamic"></div>
@@ -188,7 +185,7 @@
                             :
                         </div>
                         <div class="col-md-3">
-                            wahyusafrizal174@gmail.com
+                            nuris.akbar@gmail.com
                         </div>
                     </div>
                     <div class="divider-dynamic"></div>
@@ -231,7 +228,7 @@
             <div class="dividewhite1"></div>
             <div class="row">
                 <div class="col-md-12 copyrights">
-                    <p>© 2018 Wahyu Safrizal.</p>
+                    <p>© {{ date('Y')}} Nuris Akbar SST, M.Kom.</p>
                 </div>
             </div>
         </div>

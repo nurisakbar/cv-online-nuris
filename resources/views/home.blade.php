@@ -18,7 +18,7 @@
                                 </h3>
                                 <div class="quote">
                                     <h4 class="font-accident-two-normal uppercase subtitle">Detail Portfolio Dan CV
-                                        Website Wahyu Safrizal</h4>
+                                        Nuris Akbar</h4>
                                     <div class="dividewhite3"></div>
                                 </div>
                             </div>
@@ -32,10 +32,9 @@
                                         <div class="dividewhite1"></div>
                                     </div>
                                     <div class="col-xs-12 col-sm-11 col-md-9">
-                                        <h4 class="font-accident-two-medium uppercase">FrontEnd</h4>
+                                        <h4 class="font-accident-two-medium uppercase">Full Stack Developer</h4>
                                         <p class="">
-                                            Saya menguasai beberapa skill dalam bagian FrontEnd Developer seperti HTML,
-                                            CSS, BOOTSTRAP dan mampu membangun beberapa website dan aplikasi.
+                                            Saya adalah seorang full stack web developer dengan stack PHP, Menguasai database MySQL, Postgree, SQL Server Dan MongoDB
                                         </p>
                                     </div>
                                 </div>
@@ -48,10 +47,9 @@
                                         <div class="dividewhite1"></div>
                                     </div>
                                     <div class="col-xs-12 col-sm-11 col-md-9">
-                                        <h4 class="font-accident-two-medium uppercase">BackEnd</h4>
+                                        <h4 class="font-accident-two-medium uppercase">Cloud Service</h4>
                                         <p class="">
-                                            Saya menguasai skill dalam bagian BackEnd Developer dengan menggunakan PHP
-                                            dan experienced menggunakan framework LARAVEL.
+                                            Saya sering bekerja dengan environment cloud yang disediakan oleh AWS, GCP dan Alibaba Cloud, menguasai beberapa kemampuan Dev Ops juga
                                         </p>
                                     </div>
                                 </div>
@@ -63,10 +61,9 @@
                                         <div class="dividewhite1"></div>
                                     </div>
                                     <div class="col-xs-12 col-sm-11 col-md-9">
-                                        <h4 class="font-accident-two-medium uppercase">Database</h4>
+                                        <h4 class="font-accident-two-medium uppercase">Project Management</h4>
                                         <p class="">
-                                            Saya mampu mengakses atau membuat sebuah data dalam sebuah wadah yang di
-                                            maksud dengan DATABASE dengan MYSQL dan LARAGON.
+                                            Selain menjadi fullstaclk, saya juga terkadang menghandle beberapa pekerjaan frelance sebagai project manager yang mengelola tim dalam proses development
                                         </p>
                                     </div>
                                 </div>
@@ -88,7 +85,7 @@
                         <div>
                             <div class="fullwidth box">
                                 <div class="one">
-                                    <p class="uppercase">Name:</p>
+                                    <p class="uppercase">Nama :</p>
                                 </div>
                                 <div class="two">
                                     <p class="">Nuris Akbar</p>
@@ -96,15 +93,15 @@
                             </div>
                             <div class="fullwidth box">
                                 <div class="one">
-                                    <p class="uppercase text-nowrap">Birth Date:</p>
+                                    <p class="uppercase text-nowrap">Tgl Lahir:</p>
                                 </div>
                                 <div class="two">
-                                    <p class="">25 Agustus 1992</p>
+                                    <p class="">Agustus 1992</p>
                                 </div>
                             </div>
                             <div class="fullwidth box">
                                 <div class="one">
-                                    <p class="uppercase">Address:</p>
+                                    <p class="uppercase">Alamat:</p>
                                 </div>
                                 <div class="two">
                                     <p class="">Perumahan villa Cilame indah B16, Desa Cilame, Kec. Ngamprah, Kab
@@ -113,11 +110,11 @@
                             </div>
                             <div class="fullwidth box">
                                 <div class="one">
-                                    <p class="uppercase">Phone:</p>
+                                    <p class="uppercase">No HP:</p>
                                 </div>
                                 <div class="two">
                                     <p class="">089699935552</p>
-                                    <p class="">081564724662</p>
+ 
                                 </div>
                             </div>
                             <div class="fullwidth box">
@@ -149,6 +146,24 @@
                         <h3 class="font-accident-two-normal uppercase title">Pengalaman Kerja</h3>
                         <div class="dividewhite4"></div>
                         <div class="experience">
+                            <ul class="">
+                                <li class="date">11/2021 - Sekarang</li>
+                                <li class="company uppercase">
+                                    <a href="https://dto.kemkes.go.id/">
+                                        DTO Kementrian Kesehatan RI
+                                    </a>
+                                </li>
+                                <li class="position">Backend Engineer</li>
+                            </ul>
+                            <ul class="">
+                                <li class="date">11/2021 - Sekarang</li>
+                                <li class="company uppercase">
+                                    <a href="#">
+                                        Dosen Politeknik Sampit
+                                    </a>
+                                </li>
+                                <li class="position">Dosen Teknik Informatika</li>
+                            </ul>
                             <ul class="">
                                 <li class="date">05/2020 - 12/2020</li>
                                 <li class="company uppercase">
@@ -228,8 +243,7 @@
                                     </div>
                                     <h4 class="font-accident-two-bold uppercase">FrontEnd Developer</h4>
                                     <p class="font-regular-normal">
-                                        Saya menguasai beberapa skill dalam bagian FrontEnd Developer seperti HTML, CSS,
-                                        BOOTSTRAP dan mampu membangun beberapa website dan aplikasi.
+                                        Menguasai Stack teknologi umum untuk frontend seperti HTML 5, CSS 3, JavaScript Dan Jquery Ajax. 
                                     </p>
                                 </div>
                                 <div class="dividewhite1"></div>
@@ -241,12 +255,11 @@
                                         data-progressbar-trailcolor="#fff"
                                         data-progressbar-to='{"color": "#51f2ec", "width": 4}'
                                         data-progressbar-from='{"color": "#3498db", "width": 4}'
-                                        data-progressbar-value="0.85">
+                                        data-progressbar-value="0.95">
                                     </div>
-                                    <h4 class="font-accident-two-bold uppercase">BackEnd Developer</h4>
+                                    <h4 class="font-accident-two-bold uppercase">Backend Developer</h4>
                                     <p class="font-regular-normal">
-                                        Saya menguasai skill dalam bagian BackEnd Developer dengan menggunakan PHP dan
-                                        experienced menggunakan framework LARAVEL.
+                                        Menguasai Bahasa Pemograman PHP dengan framework Laravel Dan Codeignter, Menguasai Adonis yang merupakan salah satu framework NodeJS
                                     </p>
                                 </div>
                                 <div class="dividewhite1"></div>
@@ -258,12 +271,13 @@
                                         data-progressbar-trailcolor="#fff"
                                         data-progressbar-to='{"color": " #ba83e5 ", "width": 4}'
                                         data-progressbar-from='{"color": "#3498db", "width": 4}'
-                                        data-progressbar-value="0.80">
+                                        data-progressbar-value="0.90">
                                     </div>
                                     <h4 class="font-accident-two-bold uppercase">Database</h4>
                                     <p class="font-regular-normal">
-                                        Saya mampu mengakses atau membuat sebuah data dalam sebuah wadah yang di maksud
-                                        dengan DATABASE dengan MYSQL dan LARAGON.
+                                        {{-- Saya mampu mengakses atau membuat sebuah data dalam sebuah wadah yang di maksud
+                                        dengan DATABASE dengan MYSQL dan LARAGON. --}}
+                                        Berpengalaman bekerja dengan database MySQL, Postgree, SQL Server Dan MongoDB ( Offline Dan Remote Database/ RDS Amazon Web Service )
                                     </p>
                                 </div>
                                 <div class="dividewhite1"></div>
@@ -275,12 +289,11 @@
                                         data-progressbar-trailcolor="#fff"
                                         data-progressbar-to='{"color": " #e67110 ", "width": 4}'
                                         data-progressbar-from='{"color": "#3498db", "width": 4}'
-                                        data-progressbar-value="0.60">
+                                        data-progressbar-value="0.90">
                                     </div>
                                     <h4 class="font-accident-two-bold uppercase">Lumen Framework</h4>
                                     <p class="font-regular-normal">
-                                        Saya mampu membuat database dengan data dari API menggunakan framework LUMEN
-                                        yang mengakses data dengan postmant.
+                                        Berpengalaman mengembagkan REST API dengan lumen,termasuk dokumentasi dengan swangger dan auto deployment
                                     </p>
                                 </div>
                                 <div class="dividewhite1"></div>
@@ -292,11 +305,11 @@
                                         data-progressbar-trailcolor="#fff"
                                         data-progressbar-to='{"color": "#f9f617", "width": 4}'
                                         data-progressbar-from='{"color": "#3498db", "width": 4}'
-                                        data-progressbar-value="0.70">
+                                        data-progressbar-value="0.90">
                                     </div>
                                     <h4 class="font-accident-two-bold uppercase">Linux Dan GIT</h4>
                                     <p class="font-regular-normal">
-                                        Saya mampu mensetup VPS ke HOSTING dengan menggunakan CENTOS 7.
+                                        Terbiasa bekerja dengan environment linux dan menggunakan GIT sebagai colaboration tools
                                     </p>
                                 </div>
                                 <div class="dividewhite1"></div>
@@ -308,12 +321,11 @@
                                         data-progressbar-trailcolor="#fff"
                                         data-progressbar-to='{"color": "#51e610", "width": 4}'
                                         data-progressbar-from='{"color": "#3498db", "width": 4}'
-                                        data-progressbar-value="0.75">
+                                        data-progressbar-value="0.85">
                                     </div>
                                     <h4 class="font-accident-two-bold uppercase">Wordpress</h4>
                                     <p class="font-regular-normal">
-                                        Saya mampu membuat sebuah website dengan menggunakan plugin plugin yang di
-                                        sediakan oleh Wordpress tersebut.
+                                        Berpengalaman melakukan development website dengan platform wordpress, termasuk optimasi disisi SEO dan security
                                     </p>
                                 </div>
                                 <div class="dividewhite1"></div>
